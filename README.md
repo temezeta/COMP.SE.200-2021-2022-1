@@ -1,5 +1,5 @@
-[![Coverage Status](https://coveralls.io/repos/github/temezeta/COMP.SE.200-2021-2022-1/badge.svg)](https://coveralls.io/github/temezeta/COMP.SE.200-2021-2022-1)
-[![Build Status](https://app.travis-ci.com/temezeta/COMP.SE.200-2021-2022-1.svg?branch=main)](https://app.travis-ci.com/temezeta/COMP.SE.200-2021-2022-1)
+[![Coverage Status](https://coveralls.io/repos/github/temezeta/COMP.SE.200-2021-2022-1/badge.svg?branch=master)](https://coveralls.io/github/temezeta/COMP.SE.200-2021-2022-1?branch=master)
+[![Build Status](https://app.travis-ci.com/temezeta/COMP.SE.200-2021-2022-1.svg?branch=master)](https://app.travis-ci.com/temezeta/COMP.SE.200-2021-2022-1)
 
 ## Purpose of this repository
 
