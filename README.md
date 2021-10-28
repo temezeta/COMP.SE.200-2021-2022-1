@@ -17,7 +17,7 @@
 
 - TravisCI pipeline is only run on `master` branch
 - TravisCI generates coverage report to Coveralls using `npm run coverage`
-- Coverage is reported relative to `all functions` in the library (might be changed in the future)
+- Coverage is reported relative to `tested functions` in the library as it is unknown whether other functions will be used in the project and thus redundant
 
 ## Purpose of this repository
 
