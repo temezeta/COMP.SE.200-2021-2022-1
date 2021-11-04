@@ -21,7 +21,6 @@ describe("reduce", () => {
     });
 
     // TC6003
-    // There was an error in the test case, used both 'word' and 'w' as keys, when only one of them was intended
     it("TC6003: Test with objects and default accumulator, should return {'w': 'lorum ipsum dolor sit'}", () => {
         const ar = [{'w': 'lorum'}, {'w': 'ipsum'}, {'w': 'dolor'}, {'w': 'sit'}];
         const expOutput = {'w': 'lorum ipsum dolor sit'};

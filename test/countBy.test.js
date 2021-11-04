@@ -16,7 +16,6 @@ describe("countBy", () => {
     });
 
     // TC7003
-    // Missing quotes in original test case around the key '0,1,2'
     it("TC7003: Test with various objects, should return {'0,1,2': 1, foo: 1, undefined: 2}", () => {
         const objs = [
             {'id': 0, 'data': 'foo'},

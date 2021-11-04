@@ -19,9 +19,8 @@ describe("ceil", () => {
     });
 
     // TC9004
-    // Expected output in test case was probably based on a false assumption, I think the function is working as intended
     it("TC9004: Test with negative precision beyond the size of the number", () => {
-        assert.equal(ceil(123, -5), 200/* 100000 */);
+        assert.equal(ceil(123, -5), 100000);
     });
 
 });
