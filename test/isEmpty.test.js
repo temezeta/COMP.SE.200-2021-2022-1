@@ -9,7 +9,7 @@ describe("isEmpty", () => {
     assert.equal(isEmpty(""), true);
   });
   it("TC1003: Should return false with non-empty string", () => {
-    assert.equal(isEmpty("foo", false));
+    assert.equal(isEmpty("foo"), false);
   });
   it("TC1004: Should return true with empty array", () => {
     assert.equal(isEmpty([]), true);
